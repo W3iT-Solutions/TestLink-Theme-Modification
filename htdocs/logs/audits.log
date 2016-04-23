@@ -1,0 +1,28 @@
+	[16/Apr/1 20:57:11][AUDIT][<nosession>][GUI]
+		Login for 'admin' from '::1' failed
+	[16/Apr/1 20:57:22][AUDIT][npkij4djjbt1dgirehqk17i2p5][GUI]
+		Login for 'admin' from '::1' succeeded
+	[16/Apr/1 20:58:22][AUDIT][npkij4djjbt1dgirehqk17i2p5][GUI]
+		Test Project 'Proyecto de Prueba' was created
+	[16/Apr/1 20:58:44][AUDIT][npkij4djjbt1dgirehqk17i2p5][GUI]
+		Test Project 'Proyecto de Prueba' was saved
+	[16/Apr/8 03:24:34][AUDIT][<nosession>][GUI]
+		Login for 'admin' from '::1' failed
+	[16/Apr/8 03:24:42][AUDIT][<nosession>][GUI]
+		Login for 'admin' from '::1' failed
+	[16/Apr/8 03:24:47][AUDIT][gm7s8lhphuor6dcrvoik3jb6n0][GUI]
+		Login for 'admin' from '::1' succeeded
+	[16/Apr/20 19:22:57][AUDIT][<nosession>][GUI]
+		Login for 'admin' from '127.0.0.1' failed
+	[16/Apr/20 19:23:02][AUDIT][<nosession>][GUI]
+		Login for 'admin' from '127.0.0.1' failed
+	[16/Apr/20 19:23:08][AUDIT][8cqh9ju6g6fi8svuindo1e3ia7][GUI]
+		Login for 'admin' from '127.0.0.1' succeeded
+	[16/Apr/22 19:17:02][AUDIT][<nosession>][GUI]
+		Login for 'admin' from '::1' failed
+	[16/Apr/22 19:17:09][AUDIT][otk6qgc1kmuotbbqf4blrmptr4][GUI]
+		Login for 'admin' from '::1' succeeded
+	[16/Apr/22 23:05:12][AUDIT][4ovtp9vgipe4d72qvtdh06ufg5][GUI]
+		Login for 'admin' from '127.0.0.1' succeeded
+	[16/Apr/22 23:48:17][AUDIT][4ovtp9vgipe4d72qvtdh06ufg5][GUI]
+		Logout of 'admin'

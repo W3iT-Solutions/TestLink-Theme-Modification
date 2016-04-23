@@ -1,0 +1,17 @@
+<issue>
+<subject>SUMMARY fedora-20</subject><description>TEST DESCR fedora-20</description>
+<project_id>run-away</project_id>
+<custom_fields type="array">
+    <custom_field id="1" name="CF-STRING-OPT">
+      <value>SALAME</value>
+    </custom_field>
+    <custom_field id="2" name="CF-STRING-MANDATORY">
+      <value>STRF</value>
+    </custom_field>
+    <custom_field id="3" name="CF-LIST-OPT" multiple="true">
+      <value type="array">
+        <value>ALFA</value>
+      </value>
+    </custom_field>
+</custom_fields>
+</issue>
